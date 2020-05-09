@@ -19,4 +19,5 @@ My partner, William Dyrland-Marquis, and I, consider Project Euler an enjoyable 
 ---
 
 ## Authors
-* **Rory Fahy** - [rmf10003](https://github.com/rmf10003)
+*  William Dyrland-Marquis🥇 [maybe-william](https://github.com/maybe-william) | [@notwilliam4](https://twitter.com/notwilliam4) | [My LinkedIn](https://www.linkedin.com/in/william-dyrland-marquis/)
+* Faizan Khan 🌌 [b1naryp0et](https://github.com/b1naryp0et) | [@b1nary_p0et](https://twitter.com/b1nary_p0et) | [My LinkedIn](https://www.linkedin.com/in/fkkhan/)
